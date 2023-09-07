@@ -23,4 +23,40 @@ Useful - products solve a problem.
 
 The point: product designs that take the above 4 points into account improve business, regardless of the industry
 
+Empathy is a major part of UX design, because it's important to understand different user perspectives.
 
+UX designer responsibilities:
+There are many different kinds of designers
+
+Interaction designers - design the experience of a product and how it functions. How to connect a user's needs with what is actually feasable to build (this specification really resonates with me).
+
+Visual designers - how a product looks. Might design logos, icons, or decide layouts/colors
+
+Motion designers - consider what it feels like when users move through a product, such as thinking about smooth transitions.
+
+Graphic designers - slightly different then UX design, and has to do entirely with the appearence of a product 
+
+UX researchers - research how people use a product through studies/interviews.
+
+UX writers - is the language of the product clear? 
+
+Production designers - bridge between designers and engineers
+
+UX engineers - translate design's intent into a functioning experience
+
+UX PMs - provide logistical support 
+
+Product Development Lifecycle: The process used to take a product from an idea to a reality.
+
+Stages:
+Brainstorm - an active discovery stage about generating ideas about the user and the problem to be solved. Research plays a key role in this stage.
+
+Define - Using insights from above stage to narrow the focus. Specific details of the product take shape. Goals, problems to be solved
+
+Above 2 stages are about defining who your users are, what their needs might be, and what the problem is you're solving for. 
+
+Design - actively develop ideas based on insights from the planning stages above. Create storyboards, wireframes, prototypes during this stage
+
+Test - evals of current product design based on user feedback. 
+
+Launch - releasing finish version of a product to the public. Refinements continue based on user feedback. 
