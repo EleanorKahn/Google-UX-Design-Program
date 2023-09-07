@@ -13,9 +13,10 @@ UX - how a person/user feels about interacting with or experiencing a product
 product - a good, service, or feature
 
 Product needs to be:
-Usable - purpose, structure, and design are clear. How would all different types of people use this product.
 
-Equitable - designs are useful and marketable to people with different abilities
+Usable - purpose, structure, and design are clear. How would all different types of people use this product. ie can people actually use the product? 
+
+Equitable - designs are useful, usable, and marketable to people with different abilities. Accessibility and inclusion come into play here (think icons with a wide range of skin color options).
 
 Enjoyable - fosters a positive connection between a user and a product. Take user feedback into account through research 
 
@@ -60,3 +61,23 @@ Design - actively develop ideas based on insights from the planning stages above
 Test - evals of current product design based on user feedback. 
 
 Launch - releasing finish version of a product to the public. Refinements continue based on user feedback. 
+
+
+Design for a good user experience 
+Predicting user roadblocks is really important 
+
+Icons can cross language barriers, save space, and look pleasing, but need to be clear. If they aren't, text is more useful, or adding text.
+
+Good user experience should create products that are intuitive and easy to use. Each product should be designed to make users feel a certain way, and learn from your own experiences as a user. What is good/poor? What could be better? 
+
+Common UX Designer Responsibilities
+
+-researching (understand users that will be using your product)
+
+-wireframing (outline/sketch of a product)
+
+-prototyping (early model of a product that demonstrates functionality)
+
+-creating information architecture (framework/organization of a website)
+
+Also, it's a collaborative position, so team building and teamwork are very important 
