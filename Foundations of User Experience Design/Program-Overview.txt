@@ -1,0 +1,6 @@
+What I hope to gain out of this course: the technical knowledge and tools to translate my creativity into compassionate UX designs, and make me a well rounded, creative frontend software engineer. 
+
+A Little UX History
+UX term was first coined by Don Norman in the 90's, but concept has been around for thousands of years (think feng shuei)
+
+UX: How people use or interact with products 
