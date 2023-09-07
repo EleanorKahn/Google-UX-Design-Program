@@ -4,3 +4,23 @@ A Little UX History
 UX term was first coined by Don Norman in the 90's, but concept has been around for thousands of years (think feng shuei)
 
 UX: How people use or interact with products 
+
+UXD Portfolio Roadmap:
+Course Certificate requires 3 major UXD projects and 3 case studies.
+
+The Basics of UX Design:
+UX - how a person/user feels about interacting with or experiencing a product
+product - a good, service, or feature
+
+Product needs to be:
+Usable - purpose, structure, and design are clear. How would all different types of people use this product.
+
+Equitable - designs are useful and marketable to people with different abilities
+
+Enjoyable - fosters a positive connection between a user and a product. Take user feedback into account through research 
+
+Useful - products solve a problem. 
+
+The point: product designs that take the above 4 points into account improve business, regardless of the industry
+
+
