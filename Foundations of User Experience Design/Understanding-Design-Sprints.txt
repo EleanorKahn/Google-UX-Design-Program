@@ -34,3 +34,28 @@ Benefits of Design Sprints:
 -focus only on the design challenge 
 -lower risks of market flop
 -versitile, and can happen at any time
+
+
+Planning a Design Sprint 
+
+User Research - gotta know your audience before you start solving! There are a number of different methods 
+
+Call experts - reach out to folks to help clarify the problem and give the sprint team a better understanding of what to solve for.
+
+Ambiance (?) - are you in a good room? Does it have whiteboards, moveable furniture, etc?
+
+Supplies - markers, sticky notes, snacks 
+
+Establish rules - is it gaget-less? 
+
+Plan introductions - it's important that everyone is comfortable with others on the team. 
+
+
+The Design Sprint Brief
+
+sprint brief: a doc you'll send to everyone to help them prepare for the sprint. Start with the design challenge (build exciting new features for app in time for relaunch later in the year). Identify key deliverables - what does your team actually want/is able to create? Logistics - where, when, who, and the sprint leader. Add approvers, like execs, stakeholders, etc. Also include list of resources. Next, there will be a project overview (current state of project, roadblocks, early wins, outline plan). Lastly, the schedule. 
+
+
+The Sprint Retrospective 
+
+It's a collaborative critique of the team's sprint. Helps prevent people from repeating mistakes. Ask - what went well, and what can be improved? 
