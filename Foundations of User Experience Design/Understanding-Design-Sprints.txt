@@ -1,0 +1,27 @@
+Intro to Design Sprints
+design-springs - a time-bound process with 5 phases, typically spread out over a week (5 days, 1 day/phase). The goal is to solve a critical design challenge through design, prototyping, and testing with users. It can answer critical business questions about a given design.
+
+5 key phases:
+
+Understand
+-sets the sprint on the right track, and allows team to fully understand the challenge/problem. 
+
+Ideate
+-coming up with ideas and building upon them, and start inviting test users.
+
+Decide
+-narrow down of ideas from the ideate phase. Will create blueprint for prototype
+
+Prototype
+-making the first instance, which allows people to accurately test your design
+
+Test
+-diverse group of people will test your product and provide feedback. Critical insight can be gained about what elements might need revision.
+
+Usefulness: design sprints save time, prioritize the user, and create a path to bring a product to market that includes testing with users. 
+
+To sprint or not to sprint:
+a design sprint can be beneficial if:
+-there are many potential solutions to the design challenge
+-requires people from x-functional teams to weigh in
+-if the challenge's scope is sufficiently wide 
