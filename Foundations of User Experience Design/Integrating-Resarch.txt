@@ -50,4 +50,33 @@ Interviews collect in-depth information.
 
 Surveys allow us to hear from a larger number of users to get a general perspective. Can be especially useful when you already have an understanding of the users' pain points. 
 
-Usability studies allow us to evaluate a product before it launches, and tests users experience using the prototype. Get a chance to see how end users interact with the new product/feature. This data is then used to improve the product. After launch, this data can be key performance indicators (KPIs), which are critical measures of progress toward an end goal. 
+Usability studies allow us to evaluate a product before it launches, and tests users experience using the prototype. Get a chance to see how end users interact with the new product/feature. This data is then used to improve the product. After launch, this data can be key performance indicators (KPIs), which are critical measures of progress toward an end goal.
+
+
+Benefits and Drawbacks of different research methods: 
+
+Interviews:
+- take time and money
+- have a small sample size 
+- allow you to get in-depth info
+- what users think and why, ask follow up questions, etc.
+
+Secondary research:
+- saves time and money
+- immediately accessbile 
+- can use it to back up primary research
+- doesn't allow you to see firsthand interactions with your product 
+
+Surveys:
+- larger sample size
+- fast
+- inexpensive
+- feedback is limited, and not in-depth
+
+Usability studies:
+- firsthand user interaction
+- challenge our assumptions 
+- in-depth feedback
+- only measure how easy the product is to use
+- they are expensive
+- cannot be wholly accurate, as a user will use a product differently in a lab vs real life. 
