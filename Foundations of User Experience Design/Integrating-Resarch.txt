@@ -3,3 +3,27 @@ Research helps everyone to empathize better with their users.
 Intro to UX Research
 
 UX Research focuses on understanding users through observation and feedback. 
+
+Goal is to prioritize the user and make sure business needs are met.
+
+User Research takes place during, before, and after phase 3 of the product development life cycle, but it is a continuous part of the product development life cycle. 
+
+Research that takes place before phase 3 is often called foundational, or generative research. Answers the questions:
+- what should we build?
+- what are the user problems?
+- how can we solve them?
+Goal is to define the problem you would like to design a solution for. Talking to users is critical.
+
+Research that takes place during the design phase (3) is called design research. Answers the questions:
+- How should we build it?
+You'll want to ask users about their experiences using the prototype. Was it easy/difficult to use. 
+
+Post-Launch research:
+- did we succeed? 
+- how did users experience the product? 
+- how well did we perform against the competition?
+
+Qualities of a UX researcher:
+- empathy
+- pragmatitism 
+- collaboration
