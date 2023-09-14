@@ -80,3 +80,56 @@ Usability studies:
 - only measure how easy the product is to use
 - they are expensive
 - cannot be wholly accurate, as a user will use a product differently in a lab vs real life. 
+
+
+How Biases affect UX Research:
+
+6 types of biases:
+- confirmation bias
+- false consensus bias 
+- primacy bias
+- recency bias
+- implicit bias 
+- sunk cost fallacy 
+
+Bias - favoring or having prejudice against something based on limited information. 
+
+Biases can get in the way of good UX design.
+
+Confirmation bias - you look for evidence that proves what you already think is true. Can be overcome by asking open-ended questions, and active listening to your interviewees. A large sample of users can also help prevent confirmation bias. 
+
+False consensus bias - overestimate the number of people who will agree with our design/idea. Can be overcome by identifying and articulating own assumptions and surveying large groups of people.
+
+Recency bias - easiest to remember the last thing you heard in an interview/conversation. Can be overcome by taking detailed notes/recordings for later review. 
+
+Primacy bias - remembering the first participate the most strongly, because it's the most novel. Can be overcome by taking detailed notes/recordings for later review. 
+
+Consistancy is really important for the above 2 types of biases. 
+
+Implicit bias aka unconscious bias - collection of attitudes and stereotypes about certain groups without our conscious knowledge (the "I'm-not-sexist/racist/classist/heteronormative/able-ist" bias). Occurs most often when only certain groups/identity profiles are included in a study. EVERYONE HAS THEM (yes, you too, and also me). Can be overcome by listening to those who point out your own biases (and probably becoming more woke in general), and reflecting on our own behaviors with sincerity. 
+
+Sunk cost fallacy - the deeper into a project, the harder it is to change course without feeling like we've failed or wasted time. It's the "I've-already-spent-so-much-time-doing-this-that-I-have-to-finish-even-if-it's-not-working" fallacy. Can be overcome by breaking a project down into smaller phases with schedule discussion points to decide whether to continue.
+
+More about bias:
+
+Preventing bias in data collection: 
+Choose your words carefully, without leading your user, which can cause the user to make a decision based on the way info was presented (aka the framing effect). 
+Instead of "Do you like the improved layout etc etc" ask "how do you feel about the layout etc etc?"
+
+Foster independent thinking:
+group studies can be negatively affected by the bandwagon effect, so have people write down their feedback before hearing that of others. 
+
+Avoid specific language:
+Open ended questions can help avoid confirmation bias, and make your data more accurate. Particularly prevalent in online serveys. 
+
+Consider users' tone and body language:
+If you can tell a participant is uncomfortable and you don't know why, ask them! This can help avoid implicit bias. If your users aren't comfortable, they won't share their feedback with you. 
+
+Be aware of your own body language and reactions:
+It's important to remain neutral to avoid Social Desirability bias, which is where people will respond based on what they think you want to hear. Can be avoided by assuring participants that negative answers won't hurt anyone's feelings. 
+
+Plan effectively:
+Last minute rushes can create availability bias, where certain users are used/screening is rushed because you just need people right now. No matter how rushed you are, important to choose users carefully.
+
+Remain open minded:
+treat all info equally to avoid primacy and recency bias. 
