@@ -27,3 +27,27 @@ Qualities of a UX researcher:
 - empathy
 - pragmatitism 
 - collaboration
+
+
+Choosing the Right Research Methods:
+What's the best way to get the research done?
+
+How do we catagorize methods?
+- Who conducts the research?
+- What type of data are we collecting?
+
+Primary Research: research that you yourself conduct.
+
+Secondary Research: uses info that someone else has put together. 
+
+Quantitative Reasearch: counting or measuring. Answers questions like 'how many?' or 'how much?'
+
+Qualitative Research: focuses on observations about why and how things happen. Often based on interviews. Answers questions like 'why?' and 'how can we improve?'
+
+Quantitative research gives the 'what,' qualitative gives you the 'why.'
+
+Interviews collect in-depth information. 
+
+Surveys allow us to hear from a larger number of users to get a general perspective. Can be especially useful when you already have an understanding of the users' pain points. 
+
+Usability studies allow us to evaluate a product before it launches, and tests users experience using the prototype. Get a chance to see how end users interact with the new product/feature. This data is then used to improve the product. After launch, this data can be key performance indicators (KPIs), which are critical measures of progress toward an end goal. 
