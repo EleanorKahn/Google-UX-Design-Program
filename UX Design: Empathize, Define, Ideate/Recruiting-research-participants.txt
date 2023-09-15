@@ -1,0 +1,28 @@
+Recruiting Participants:
+
+This takes time!!
+
+Should always start recruitment by determining the interview goals.
+- what do you want to learn from the interviews?
+- are there certain user problems you need to empathize with?
+- how much information do you need to get a comprehensive data set? 
+- what type of user do you want to interview? 
+
+
+Screener survey - a detail questionaire to determine if participants fit the requirements for a study. 
+
+Representative sample - a subset of a target population that seeks to accurately reflect the characteristics of the larger group. Should include groups that have been historically under-represented. 
+
+How to search for potential interview participants? 
+ - depends on company, type of product, time and budget constraints, and accessibility to target users. 
+ - you can also use social media, or professional networking sites like LinkedIn (lol, linkedin is social media 100%).
+ - can also use a third party recruiting agency (this does cost money)
+ - paid services/service testing websites
+ 
+
+ Reaching out to participants via email:
+ - introduce yourself and the project
+ - why do you want them to be involved?
+ - logistic details
+ - permission
+ - how to confirm their participation 
