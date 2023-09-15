@@ -26,3 +26,34 @@ How to search for potential interview participants?
  - logistic details
  - permission
  - how to confirm their participation 
+
+ Determine Research Goals and questions
+
+ - want to understand processes and emotions than people experience around the problem my product is trying to solve
+ - identify common user behaviors
+ - want to understand user needs and frustrations
+
+ Keep questions:
+ - open ended 
+ - keep questions short and simple
+ - ask follow-up questions (why? tell me more about that, etc)
+
+ Prepare for user interviews:
+ - script interview questions for clarity AND consistancy 
+ - make a required supplies list and go through your inventory (this can also be accounts to sites on which interviews are being conducted)
+ - become familiar with the additional technology you might be using, and prepare a backup plan if the tech fails
+ - research your users
+ - of course, practice 
+
+
+ Interviewing users
+ 
+ Steps:
+ - meet the participant (...), and make them feel comfortable
+ - briefly review any relevant legal logistics 
+ - gather basic, relevant details 
+ - remind them that there are no right or wrong answers. 
+ - have good interview etiquette 
+ - ask open-ended questions
+ - take notes (highlight compelling quotes, document observations about participants)
+ - wrap up and thank your participants 
