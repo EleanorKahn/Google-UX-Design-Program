@@ -62,3 +62,14 @@ How to search for potential interview participants?
  Empathy Maps:
 
  An empathy map is a chart that explains everything designers have learned about a type of user. Consists of 4 squares - says, does, thinks, feels. EM can refer to a single user, or they can be aggregated empathy maps. AEMs represent a visualizatioj of everything we know about entire user segment. 
+
+
+ Identifying user pain points:
+
+ Pain points are any UX issue that frustrate the user and block them from getting what they need out of the product. 
+
+ Categories:
+ - Financial (like being interrupted by a painpoint)
+ - Product issues (think Norman doors)
+ - Process (prevent the user from going from point A to point B)
+ - Support (can't access important information/customer service)
