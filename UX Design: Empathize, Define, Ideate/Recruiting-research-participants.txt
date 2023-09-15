@@ -57,3 +57,8 @@ How to search for potential interview participants?
  - ask open-ended questions
  - take notes (highlight compelling quotes, document observations about participants)
  - wrap up and thank your participants 
+
+
+ Empathy Maps:
+
+ An empathy map is a chart that explains everything designers have learned about a type of user. Consists of 4 squares - says, does, thinks, feels. EM can refer to a single user, or they can be aggregated empathy maps. AEMs represent a visualizatioj of everything we know about entire user segment. 
