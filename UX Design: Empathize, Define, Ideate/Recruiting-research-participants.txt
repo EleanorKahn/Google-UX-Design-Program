@@ -73,3 +73,15 @@ How to search for potential interview participants?
  - Product issues (think Norman doors)
  - Process (prevent the user from going from point A to point B)
  - Support (can't access important information/customer service)
+
+
+ Personas: fictional users whose goals and characteristics represent the needs of a larger group. Can help ID larger patterns. They are built from research. 
+
+ User group - a set of ppl who have similar interests/goals/concerns. 
+
+ You want to build a persona for each key user group 
+
+ Benefits of personas:
+ - build empathy 
+ - tell stories
+ - stress-test designs 
