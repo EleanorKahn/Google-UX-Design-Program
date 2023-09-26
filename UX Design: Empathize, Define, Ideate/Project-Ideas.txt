@@ -1,0 +1,4 @@
+UX Course Project Ideas:
+Mood Tracker app
+Brazilian Jiu Jitsu studio sites
+Job Search site (how would you optimize filters, etc?)
